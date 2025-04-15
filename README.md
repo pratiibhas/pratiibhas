@@ -5,6 +5,6 @@
 - 🤔 I’m looking for guidance in Machine Learning and domain-specific knowledge about supply chains.
 - 💬 Ask me about SQL – I love it more than ice cream!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I once built an entire dashboard just to track if doing yoga 30 minutes a day can decrease my scrren time or not.. didn't end well!
+- ⚡ Fun fact: I once built an entire dashboard just to track if doing yoga 30 minutes a day can decrease my screen time or not.. didn't end well!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pratiibhas)](https://git.io/streak-stats)
