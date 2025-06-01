@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 🌱 I’m currently learning Data Science, Business Analysis, and how they integrate with Operations and Supply Chain Management.<br>- 👯 I’m looking to collaborate on Projects related to data-driven decision-making in operations and supply chains.<br>- 🤔 I’m looking for guidance in Machine Learning and domain-specific knowledge about supply chains.<br>- 💬 Ask me about SQL!<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I once built an entire dashboard just to track if doing yoga 30 minutes a day can decrease my screen time or not.. result was obvious !<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pratiibhas)](https://git.io/streak-stats)
 
 # 💫 About Me:
 
@@ -16,6 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiibhas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pratiibhas)](https://git.io/streak-stats)
+
 [![](https://visitcount.itsvg.in/api?id=pratiibhas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
