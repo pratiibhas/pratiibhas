@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Applying data-driven decision-making, predictive analytics, and optimization techniques to improve business processes and operational efficiency.<br>-  I’m looking to collaborate on Projects related to data-driven decision-making in operations and supply chains.<br>-  I’m looking for guidance in Machine Learning and domain-specific knowledge about supply chains.<br>- 💬 Ask me about SQL!<br>-  Pronouns: she/her<br>- ⚡ Fun fact: I once built an entire dashboard just to track if doing yoga 30 minutes a day can decrease my screen time or not.. result was obvious !<br>
+Applying data-driven decision-making, predictive analytics, and optimization techniques to improve business processes and operational efficiency.<br>-  I’m looking to collaborate on Projects related to data-driven decision-making in operations and supply chains.<br>- 💬 Ask me about SQL!<br>-  Pronouns: she/her<br>- ⚡ Fun fact: I once built an entire dashboard just to track if doing yoga 30 minutes a day can decrease my screen time or not.. result was obvious !<br>
 
 #  About Me:
 
